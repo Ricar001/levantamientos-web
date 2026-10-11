@@ -1,0 +1,4 @@
+Leaflet Rotate 0.2.8
+Copyright its contributors: Iván Sánchez Ortega, Raruto, Fabien Nicollet, Zsolt Ero.
+GPL-3.0. Source: https://github.com/Raruto/leaflet-rotate
+The distributed dependency is unmodified. Local gesture cleanup integration: src/map/rotation.ts.
